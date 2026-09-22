@@ -1,9 +1,11 @@
 # 🌾 SCARS: Smart Climate Adaptive Roofing System
 
-![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
-![Hardware: ESP32-C6](https://img.shields.io/badge/Hardware-ESP32--C6-blue)
-![Network: LoRa](https://img.shields.io/badge/Network-LoRa-orange)
-![Competition: e-Yantra](https://img.shields.io/badge/Competition-IIT%20Bombay%20e--Yantra-red)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware-ESP32--C6%20%7C%20Servo%20Actuators-1f618d?style=flat-square)
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-Edge_AI%20%7C%20Embedded_C-6c3483?style=flat-square)
+![Connectivity](https://img.shields.io/badge/Connectivity-LoRa%20%7C%206LoWPAN-d35400?style=flat-square)
+![Power](https://img.shields.io/badge/Power-Solar_Autonomous-d4ac0d?style=flat-square)
+![Competition](https://img.shields.io/badge/Competition-IIT%20Bombay%20e--Yantra-c0392b?style=flat-square)
 
 > **An AI-IoT enabled, solar-powered agricultural roofing infrastructure designed to automate microclimate regulation, precision irrigation, and crop protection.**[cite: 13, 14, 15]
 
