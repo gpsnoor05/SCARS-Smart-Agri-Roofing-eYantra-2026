@@ -29,7 +29,7 @@ SCARS is designed as a scalable, edge-computed solution to mitigate climate vuln
 *   **Power System:** 50W Solar Panels integrated with a battery pack and charge controller for complete energy autonomy[cite: 14].
 *   **Irrigation:** Embedded micro-irrigation and fertigation pipelines with solenoid valves and dosing pumps[cite: 13, 15].
 
-[INSERT BLOCK DIAGRAM IMAGE HERE] *(Upload the block diagram from your report)*
+
 
 ---
 
