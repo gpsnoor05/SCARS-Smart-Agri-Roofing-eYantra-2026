@@ -1,3 +1,4 @@
+<img width="1269" height="673" alt="IMG-20251108-WA0013" src="https://github.com/user-attachments/assets/0f628417-fa30-4c7c-a26f-13f1c3e9e648" />
 # 🌾 SCARS: Smart Climate Adaptive Roofing System
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
