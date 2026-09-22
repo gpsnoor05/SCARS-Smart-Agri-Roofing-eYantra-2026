@@ -1,4 +1,4 @@
-<img width="1269" height="673" alt="IMG-20251108-WA0013" src="https://github.com/user-attachments/assets/0f628417-fa30-4c7c-a26f-13f1c3e9e648" />
+
 # 🌾 SCARS: Smart Climate Adaptive Roofing System
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
@@ -30,7 +30,7 @@ SCARS is designed as a scalable, edge-computed solution to mitigate climate vuln
 *   **Power System:** 50W Solar Panels integrated with a battery pack and charge controller for complete energy autonomy[cite: 14].
 *   **Irrigation:** Embedded micro-irrigation and fertigation pipelines with solenoid valves and dosing pumps[cite: 13, 15].
 
-
+<img width="1269" height="673" alt="IMG-20251108-WA0013" src="https://github.com/user-attachments/assets/0f628417-fa30-4c7c-a26f-13f1c3e9e648" />
 
 ---
 
